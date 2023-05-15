@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Frontend application using Electron with integration of OpenAI Api and Supabase.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didims/frontend.git"
+  },
+  "author": "Dimples C. Tinto & Jennifer L. Yangyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didims/frontend/issues"
+  },
+  "homepage": "https://github.com/didims/frontend#readme",
+  "devDependencies": {
+    "electron": "^24.3.0"
+  }
+}
