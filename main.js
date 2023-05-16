@@ -59,7 +59,7 @@ app.on('window-all-closed', () => {
       },
       headers: {
         'Content-Type': 'application/json', 
-        'Authorization': 'Bearer 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'
+        'Authorization': 'Bearer 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'
       }
     }).then(function (response) {
       res = response.data;
