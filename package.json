@@ -19,5 +19,10 @@
   "homepage": "https://github.com/didims/frontend#readme",
   "devDependencies": {
     "electron": "^24.3.0"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3",
+    "toastify-js": "^1.12.0"
   }
 }
